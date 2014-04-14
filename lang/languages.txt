@@ -7,3 +7,4 @@ es_MX
 es_UY
 es_VE
 zh_TW
+it_IT
